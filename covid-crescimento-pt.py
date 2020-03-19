@@ -1,7 +1,7 @@
 import numpy as np
 #import matplotlib.pyplot as plt
-dias = np.array([2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17])
-casos = np.array([2,4,6,9,13,21,30,39,41,59,78,112,169,245,331,448])
+dias = np.array([2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19])
+casos = np.array([2,4,6,9,13,21,30,39,41,59,78,112,169,245,331,448,642,785])
 #print (len(dias), '  dias: ', dias)
 #print (len(casos), ' casos: ', casos)
 
