@@ -17,11 +17,10 @@ Clonar esta repo.
 
 
 ### variáveis
-**dias**: dias desde 2 de março, data dos primeiros casos em Portugal
 **casos**: número total de casos em cada dia
 **diff**: diferença para a véspera em int
 **diff_porcent**: diferença para a véspera em percentagem
-**projecao**: fórmula 
+**projecao**: fórmula
 
 
 ## TO-DO
@@ -33,4 +32,3 @@ Clonar esta repo.
 ### Changelog
 
  - **2020-03-17**: Primeira release
- 
